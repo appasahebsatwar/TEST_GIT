@@ -1,0 +1,11 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe /u MobileScriptingLibrary.dll
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe MobileScriptingLibrary.dll /tlb:MobileScriptingLibrary.tlb /codebase
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe /u ScriptingLibrary.dll
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe ScriptingLibrary.dll /tlb:ScriptingLibrary.tlb /codebase
+
+
+C:\inetpub\wwwroot\FalconEye\FEPython37\Lib\site-packages
